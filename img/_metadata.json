@@ -1,0 +1,197 @@
+[
+  {
+    "name": "FrejaDaPug #1",
+    "description": "Our pug as an NFT",
+    "image": "ipfs://QmW65Bn1d3xwJxwdtVuk1DfBmdnyEAVfzBotUM87jq7k9s/1.png",
+    "dna": "c2fa7789e792960ccc49ec073f9dfd81cc0fb6c3",
+    "edition": 1,
+    "date": 1645290364772,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FrejaDaPug #2",
+    "description": "Our pug as an NFT",
+    "image": "ipfs://QmW65Bn1d3xwJxwdtVuk1DfBmdnyEAVfzBotUM87jq7k9s/2.png",
+    "dna": "3654d13c1440bde98231d526c0d4b7b3290cd36e",
+    "edition": 2,
+    "date": 1645290365015,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FrejaDaPug #3",
+    "description": "Our pug as an NFT",
+    "image": "ipfs://QmW65Bn1d3xwJxwdtVuk1DfBmdnyEAVfzBotUM87jq7k9s/3.png",
+    "dna": "7ec28193dc58bb1c84659383c8ce5051e5b33404",
+    "edition": 3,
+    "date": 1645290365183,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FrejaDaPug #4",
+    "description": "Our pug as an NFT",
+    "image": "ipfs://QmW65Bn1d3xwJxwdtVuk1DfBmdnyEAVfzBotUM87jq7k9s/4.png",
+    "dna": "1386d3ebaca3cfdbb8a5af4a740b469f8ec4b95b",
+    "edition": 4,
+    "date": 1645290365332,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FrejaDaPug #5",
+    "description": "Our pug as an NFT",
+    "image": "ipfs://QmW65Bn1d3xwJxwdtVuk1DfBmdnyEAVfzBotUM87jq7k9s/5.png",
+    "dna": "095fde8bc8cb8a17b3ee5ae69893ca36e83cc6c8",
+    "edition": 5,
+    "date": 1645290365485,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

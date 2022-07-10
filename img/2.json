@@ -1,0 +1,39 @@
+{
+  "name": "FrejaDaPug #2",
+  "description": "Our pug as an NFT",
+  "image": "ipfs://QmW65Bn1d3xwJxwdtVuk1DfBmdnyEAVfzBotUM87jq7k9s/2.png",
+  "dna": "3654d13c1440bde98231d526c0d4b7b3290cd36e",
+  "edition": 2,
+  "date": 1645290365015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
